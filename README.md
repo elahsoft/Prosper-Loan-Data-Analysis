@@ -55,8 +55,12 @@
 ## Key Insights for Presentation
 
 > The relationship between LenderYield, ProsperScore and EstimatedReturn: To expose that some Loans of higher risk were estimated to give a negative return but they turned out to give a positive yield of 0.15+, which implies that Prosper could venture into higher risk taking by issuing loans of higher risk that would give higher returns and shoulder the risk by having more friends investing in the loan as was seen  that not much friends were investing in Prosper loans.
+
 > The relationship between BorrowerRate, EstimatedLoss and LoanStatus: To expose that more loans of higher borrower rate which will result to high estimated returns (though a great loss at default) should be issued and as can be seen that a fewer set of such loans existing were actually completed, controlled risk taking is adviced.
 > The relationship between MonthlyLoanPayment, LoanOriginalAmount and LoanStatus: To expose that Prosper is residing in their comfort zone and is not taking much risk in giving higher figures of loans as the region of 30000 to 35000 LoanOriginalAmount was not dense even when loans in that bracket were completed.
+
 > The relationship existing between StatedMonthlyIncome, LoanOriginalAmount, and LoanStatus: To expose that Prosper was not considering the stated monthly income in issuing out loans of particular sizes. Also to expose that individuals with high stated monthly income were not being issued higher loans and individuals with lower income issued small figure loans, which resulted to some high figure loans issued to low income earners being defaulted.
+
 > The relationship between BorrowerRate, LoanOriginalAmount and LenderYield: To expose that though Prosper portfolio is quite healthy but it wasn't taken much risk by issuing high figure loans with high borrower rate as majority of loans were of the range of 0-5000 at 0.2 to 0.3 borrower rate.
+
 > The relationship between BorrowerRate, LoanOriginalAmount and InvestmentFromFriendsAmount: To expose that loans of 30000 and above have no friends investment backing it up and higher loans were not issued at higher interest rate to reduce the risk associated with such loans in terms of their high yield incase of a default in the first few months.
